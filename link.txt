@@ -1,0 +1,19 @@
+f926b05559b9456afb2ec865c6a74fa9
+
+
+
+movie popular: https://api.themoviedb.org/3/movie/popular?api_key=f926b05559b9456afb2ec865c6a74fa9
+
+Search movie : https://api.themoviedb.org/3/search/movie?api_key=f926b05559b9456afb2ec865c6a74fa9&query={movie_name}
+
+
+popular: https://api.themoviedb.org/3/movie/popular?api_key=f926b05559b9456afb2ec865c6a74fa9
+
+top rated: https://api.themoviedb.org/3/movie/top_rated?api_key=f926b05559b9456afb2ec865c6a74fa9
+
+
+upcoming: https://api.themoviedb.org/3/movie/upcoming?api_key=f926b05559b9456afb2ec865c6a74fa9
+
+individual: https://api.themoviedb.org/3/movie/{movie_id}/movies?api_key=f926b05559b9456afb2ec865c6a74fa9
+
+nowplaying: https://api.themoviedb.org/3/movie/now_playing?api_key=f926b05559b9456afb2ec865c6a74fa9
