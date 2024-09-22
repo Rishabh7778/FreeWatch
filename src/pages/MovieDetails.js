@@ -17,7 +17,7 @@ export const MovieDetails = () => {
       console.log(json);
     }
     fetchMovie();
-  }, [])
+  }, [params.id])
 
 
   useTitle(`${movie.title} FreeWatch`);

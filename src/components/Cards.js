@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import Movie1 from "../assets/Movie1.jpg" 
 import backup from "../assets/backup.jpg"
 
 export const Cards = ({movie}) => {
